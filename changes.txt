@@ -1,6 +1,7 @@
 sventon change history
 -----------------------------------------------------------------------------------------
 
+Fixed: Issue #30 - Authentication Required View ignores base URL
 [2083] Fixed: Issue #3 - An unhandled internal application error occurs...
 
 [2046] Release 2.5.1 (2011-09-18)
