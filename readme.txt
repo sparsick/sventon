@@ -1,3 +1,21 @@
+Why a fork?
+
+
+This is a fork of Sventon, because it doesn't seem that it will be developed further. I forked the trunk with revision number 2087. My changes are 
+* add a fix for the bug #30 (see https://code.google.com/p/sventon/issues/detail?id=30)
+* fix broken unit tests
+
+===========================================
+How to use it?
+
+Before you can start developing with repository, you have to do some preparation.
+1. Check ot out.
+2. Go to the directory contrib
+3. Call mvn clean install. This is necessary because Sventon uses two third party libraries that are not available in an official Maven repository.
+4. Start with your development
+
+===========================================
+
 sventon is a Subversion web client for Java Servlet containers.
 
 A Java SE 6 runtime and a servlet 2.4/JSP 2.0 compliant container is
