@@ -1,5 +1,9 @@
 language: java
 jdk:
   - oraclejdk7
+before-install: 
+  - "cd contrib"
+  - "mvn install"
+  - "cd .."
 install: "mvn install -DskipTests=true"
 script: "mvn test"
