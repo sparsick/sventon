@@ -12,6 +12,7 @@ This is a fork of Sventon, because it doesn't seem that it will be developed fur
 ### How to use it?
 
 Before you can start developing with repository, you have to do some preparation.
+
 1. Check ot out.
 2. Go to the directory contrib
 3. Call mvn clean install. This is necessary because Sventon uses two third party libraries that are not available in an official Maven repository.
