@@ -1,4 +1,7 @@
-Why a fork?
+### Build status
+[![Build Status](https://travis-ci.org/skosmalla/sventon.png?branch=master)](https://travis-ci.org/skosmalla/sventon)
+
+### Why a fork?
 
 
 This is a fork of Sventon, because it doesn't seem that it will be developed further. I forked the trunk with revision number 2087. My changes are 
@@ -6,7 +9,7 @@ This is a fork of Sventon, because it doesn't seem that it will be developed fur
 * fix broken unit tests
 
 ===========================================
-How to use it?
+### How to use it?
 
 Before you can start developing with repository, you have to do some preparation.
 1. Check ot out.
@@ -16,7 +19,7 @@ Before you can start developing with repository, you have to do some preparation
 
 ===========================================
 
-sventon is a Subversion web client for Java Servlet containers.
+### sventon is a Subversion web client for Java Servlet containers.
 
 A Java SE 6 runtime and a servlet 2.4/JSP 2.0 compliant container is
 required for deployment, thus Tomcat 6.0 is a good container companion.
