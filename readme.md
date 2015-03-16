@@ -1,5 +1,6 @@
 ### Build status
 [![Build Status](https://travis-ci.org/skosmalla/sventon.png?branch=master)](https://travis-ci.org/skosmalla/sventon)
+[!(https://scan.coverity.com/projects/4470/badge.svg)](https://scan.coverity.com/projects/4470)
 
 ### Why a fork?
 
